@@ -1,1 +1,29 @@
-﻿
+﻿- Linear data structure.
+- Consist of serise of connected nodes.
+- Each node contains 2 parts i) Data part ii) Pointer/address to its next node.
+- Arrays are static structure & linklist is dynamic structure.
+
+
+1. Single Link list : 
+	- Common link list. It is default. Only contain data part and only address of next node. 
+2. Double Link list:
+	- Contain data part and 2 address, 1 for previous node another for next node.
+3. Cirlular link list:
+	- Same as singly link list only last node (tail node) contain the referense of first/head node.
+4. Doble Link list:
+	- Same as doubly link list. last node contains its head node pointer and head node contain last node in previous node address space.
+
+
+- Applications:
+	- Dynamic memory allocation
+	- Use to create ADT like Stack, Queue, Hashtable, Graph
+	
+
+- Performace
+	- Insert/Delete time complexity O(1)
+	- Read O(n)
+
+
+- Disadvantages:
+	- Memory waste as pointer required extra memory storage.
+	- Element cannot be accessed randomly. Only sequential access is possible.
