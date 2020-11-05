@@ -5,7 +5,7 @@ Based on the context different data structures are used. Various data structures
 
 ## Types of Data Structures
 
-![Types of Datastructure](https://github.com/habibsql/TheDatastructures/blob/main/docs/types.JPG?raw=true)
+![Types of Datastructure](https://github.com/habibsql/TheDatastructures/blob/master/docs/type.JPG?raw=true)
 
 
 Their performaces are also varied. For example, Some data structures read operation is first but write is slow. Some are 
@@ -14,7 +14,8 @@ algorithms the datastructures need to be selected.
 
 ## Data Structures Big-O
 
-![Big-O](https://github.com/habibsql/TheDatastructures/blob/main/docs/bigo.JPG?raw=true)
+![Big-O](https://github.com/habibsql/TheDatastructures/blob/master/docs/bigo.JPG?raw=true)
+
 
 
 It is very important to understand the performance of data structures and its operations. Time complexity & Space complexity 
@@ -24,6 +25,6 @@ vital part of any algorithm. Every algorithm works with data and to manage/store
 
 ## Data Structures Complexity
 
-![Types of Datastructure](https://github.com/habibsql/TheDatastructures/blob/main/docs/Complexity.JPG?raw=true)
+![Complexity](https://github.com/habibsql/TheDatastructures/blob/master/docs/complexity.JPG?raw=true)
 
 
